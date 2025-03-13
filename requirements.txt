@@ -1,0 +1,6 @@
+pymupdf
+pandas
+scikit-learn
+scipy
+matplotlib
+nltk
